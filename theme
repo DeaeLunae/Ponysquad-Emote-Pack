@@ -39,6 +39,7 @@ Author=RD
 ! abhello.png :abhello:
 ! abkarate.png :abkarate:
 ! abmad.png :abmad:
+! abmultitask.png :abmultitask:
 ! abnom.png :abnom:
 ! abohyou.png :abohyou:
 ! abpirate.png :abpirate:
@@ -48,6 +49,7 @@ Author=RD
 ! absanta.png :absanta: :santabloom:
 ! absaywat.png :abthreaten:
 ! abshobon.png :abshobon:
+! absheepish.png :absheepish:
 ! abshrug.png :abshrug:
 ! abskeptical.png :abskeptical:
 ! absleep.png :absleep:
@@ -62,7 +64,6 @@ Author=RD
 ! abwhy.png :abwhy:
 ! abwink.png :abwink:
 ! abyell.png :abyell:
-! ad_vita_noctu.png :avint:
 ! agesilaus.png :agesilaus:
 ! airquote.gif :airquote:
 ! ajangry.png :ajangry:
@@ -89,6 +90,7 @@ Author=RD
 ! ajgrump.png :ajgrump:
 ! ajhai.png :ajhai:
 ! ajhappy.png :ajhappy:
+! ajhowdy.png :ajhowdy:
 ! ajhello.png :ajhello:
 ! ajhitler.png :ajhitler:
 ! ajhrm.png :ajhrm: :ajhmm:
@@ -122,8 +124,6 @@ Author=RD
 ! ajwhy.png :ajwhy:
 ! ajwince.png :ajwince:
 ! ajwink.png :ajwink:
-! alcohol_tobacco_and_firearms.png :atf:
-! alea_iacta_est_universal.png :aieu:
 ! allears.gif :allears:
 ! allmybits.png :allmybits:
 ! alot.png :alot:
@@ -202,7 +202,6 @@ Author=RD
 ! arghfist.gif :arghfist:
 ! arghfistflip.gif :arghfistflip:
 ! arghy.gif :arghy:
-! ars_ex_discordia.png :arsed:
 ! arse.gif :arse:
 ! ashobon.gif :ashobon: :antishobon:
 ! ashomad.png :ashomad:
@@ -257,6 +256,7 @@ Author=RD
 ! bonbondesk.png :bonbondesk:
 ! bonboneager.png :bonboneager:
 ! bonbonfsjal.png :bonbonfsjal:
+! bonbonohyou.png :bonbonohyou:
 ! bonbonnom.png :bonbonnom:
 ! bonbonshrug.png :bonbonshrug:
 ! bonbonstare.png :bonbonstare:
@@ -420,7 +420,6 @@ Author=RD
 ! chrysaliswut.png :chrysaliswut:
 ! cigare.gif :cigare:
 ! circlefap.gif :circlefap:
-! classic_fillmore.gif :tinsley: :mallard: :fillmore: :quack:
 ! cleanhands.png :cleanhands: :handsareclean:
 ! clegg.gif :clegg:
 ! clevergirl.png :clevergirl:
@@ -454,6 +453,7 @@ Author=RD
 ! confused.gif :confused:
 ! confused_downs.gif :cd: :confuseddowns:
 ! confuseddownsbert.png :cdb: :confuseddownsbert:
+! confutoot.png :confutoot:
 ! conspiracy_effort.gif :conspiracy: :gfc:
 ! cool.gif :cool:
 ! coolp.gif :coolp:
@@ -559,6 +559,7 @@ Author=RD
 ! discordsoon.png :discordsoon:
 ! discordsquee.png :discordsquee:
 ! discordsquee2.png :discordsquee2:
+! discordstonk.png :discordstonk:
 ! discordten.png :discordten: :discord10:
 ! discordtickles.gif :discordtickles:
 ! discordtwitch.png :discordtwitch:
@@ -589,11 +590,9 @@ Author=RD
 ! downvote.gif :downvote:
 ! downvotepony.png :downvotepony: :descentia:
 ! drac.gif :drac:
-! dragon_wizard_snypa.gif :dragonwizardsnypa: :dws:
 ! drama.jpg :drama:
 ! drfshy.png :drfshy:
 ! drinking.jpg :drinking:
-! dromedaworks_inc.png :drowi:
 ! drugnerd.gif :drugnerd:
 ! drum.gif :drum:
 ! duck.gif :duck:
@@ -615,10 +614,8 @@ Author=RD
 ! effortissar.gif :effortissar:
 ! effortless.gif :effortless:
 ! egstare.png :egstare:
-! elite_aeronautic_developer_syndicate.png :eads:
 ! emiliedare.png :emiliedare: :emilie:
 ! emo.gif :emo:
-! emote-louisgod2.gif :louisgod2:
 ! eng101.gif :eng101:
 ! eng99.gif :eng99:
 ! erisbeam.png :erisbeam:
@@ -784,6 +781,7 @@ Author=RD
 ! flutterlod.png :flutterlod:
 ! flutterlouse.png :flutterlouse:
 ! fluttermad.png :fluttermad:
+! fluttermodest.png :fluttermodest:
 ! flutternom.png :flutternom:
 ! flutternope.png :flutternope:
 ! flutterohme.png :flutterohme:
@@ -910,7 +908,6 @@ Author=RD
 ! gfluttersoon.png :gfluttersoon:
 ! ggrannysmith.png :ggrannysmith:
 ! ghost.gif :ghost:
-! ghosts_of_ragnarok.png :xgorx:
 ! gilda.png :gilda:
 ! gildacute.png :gildacute:
 ! gildadwi.png :gildadwi:
@@ -991,8 +988,6 @@ Author=RD
 ! holy.gif :holy:
 ! hornbutt.png :hornbutt:
 ! horse.gif :horse:
-! hug-left.png ({)
-! hug-right.png (})
 ! hug.gif :hug:
 ! huh.gif :huh:
 ! hulk.gif :hulk:
@@ -1006,7 +1001,6 @@ Author=RD
 ! iiapa.png :iiapa:
 ! imdabes.gif :imdabes:
 ! imgtimeline.gif :timeline:
-! immortal_shadow_seekers.png :ishdw:
 ! insanetroll.png :insanetroll:
 ! ireland.gif :ireland:
 ! ironicat.gif :ironicat:
@@ -1037,7 +1031,6 @@ Author=RD
 ! karmahello.png :karmahello:
 ! karmahugs.png :karmahugs:
 ! karmasquint.png :karmasquint:
-! kd-ratio2.gif :kdratio: :kd:
 ! kidding.png :kidding:
 ! kiddo.gif :kiddo:
 ! kiddolbert.gif :kiddolbert:
@@ -1151,7 +1144,6 @@ Author=RD
 ! leviosa.png :leviosa: :leviosaa: :leviosaaa: :leviosaaaa: :leviosaaaaa:
 ! lilyhorror.png :lilyhorror:
 ! lilylaser.png :lilylaser: :lilylazer:
-! livestock01-14-04-whore.gif :whore:
 ! livintrope.gif :livintrope:
 ! loadsa.gif :loadsa: :loads: :moudy:
 ! lod.png :lod:
@@ -1188,6 +1180,7 @@ Author=RD
 ! lunafear.png :lunafear:
 ! lunafrown.png :lunafrown:
 ! lunagasp.png :lunagasp:
+! lunagetin.png :lunagetin:
 ! lunaglee.png :lunaglee:
 ! lunahappy.png :lunahappy:
 ! lunahate.png :lunahate:
@@ -1241,7 +1234,6 @@ Author=RD
 ! magical.png :magical:
 ! marbleskeptical.png :marbleskeptical:
 ! marc.gif :marc:
-! martyrs_vengence.png :mv:
 ! masao-sympathy.gif :masaosympathy:
 ! masaoclap.gif :masaoclap:
 ! masaokis-drag-pot.gif :masaokisdragpot:
@@ -1470,10 +1462,10 @@ Author=RD
 ! pcgaming.gif :pcgaming:
 ! pcgaming1.gif :pcgaming1:
 ! pcgaming2.gif :pcgaming2:
+! absheepish.png :absheepish:
 ! peewee.png :peewee:
 ! perfect.png :perfect: :wintears:
 ! pervert.gif :pervert:
-! petrichor_heavy_industries.png :phi:
 ! pfderp.png :pfderp:
 ! pft.png :pft:
 ! philomena.png :philomena:
@@ -1738,7 +1730,6 @@ Author=RD
 ! raritywhine.png :raritywhine:
 ! raritywhy.png :raritywhy:
 ! raritywut.png :raritywut:
-! rayn_enterprises.png :sre:
 ! rdaaaa.png :rdaaaa:
 ! rdapproved.png :rdapproved
 ! rdawe.gif :rdawe:
@@ -1848,6 +1839,7 @@ Author=RD
 ! rdwhy.png :rdwhy:
 ! rdword.png :rdword:
 ! rdwut.png :rdwut:
+! freerealestate.gif :realestate: :freerealestate:
 ! redheartohyou.png :redheartohyou:
 ! ree.gif :ree:
 ! reject.gif :reject:
@@ -1855,7 +1847,6 @@ Author=RD
 ! respek.gif :respek: :respekt: :respect:
 ! retrogames.gif :retrogames:
 ! riker.gif :riker:
-! rim_collection_rc.png :rimc:
 ! rimshot.gif :rimshot:
 ! riot.gif :riot:
 ! rip.gif :rip:
@@ -1896,7 +1887,6 @@ Author=RD
 ! rubshandstogetherandgrinsevilly.gif :rubshands:
 ! rudebox.gif :rudebox:
 ! russbus.gif :russbus:
-! sa-emoticon-logo.png :frogreal:
 ! sad.png :sad:
 ! saddowns.gif :saddowns:
 ! sadwave.gif :sadwave:
@@ -1912,7 +1902,6 @@ Author=RD
 ! sax.gif :sax:
 ! sbahj.gif :sbahj:
 ! sbf.png :sbf: :secretbuttfun:
-! scax-spork(funkengine).gif :scaxspork:
 ! schm.png :schm: :sweetcelestia:
 ! science.gif :science:
 ! sciencebitch.gif :sciencebitch: :jesse:
@@ -1963,7 +1952,6 @@ Author=RD
 ! scootwink.png :scootwink:
 ! scotland.gif :scotland:
 ! seaking.gif :seaking:
-! sergaldrugs.gif :sergaldrugs:
 ! sergeysmug.png :sergey: :sergeysmug:
 ! sgbeam.png :sgbeam:
 ! sgbeh.png :sgbeh:
@@ -2022,7 +2010,6 @@ Author=RD
 ! smaug.gif :smaug:
 ! smile.gif :) :-)
 ! smileparade.png :smileparade:
-! smilie-het.gif :megadeth:
 ! smith.gif :smith:
 ! smithbrit.gif :smithbrit:
 ! smithcloud.gif :smithcloud:
@@ -2050,6 +2037,7 @@ Author=RD
 ! smugissar.gif :smugissar:
 ! smugjones.gif :smugjones:
 ! snails.png :snails:
+! snailsohyou.png :snailsohyou:
 ! snoop.gif :snoop:
 ! soarinclop.png :soarinclop:
 ! soarinpie.png :soarinpie:
@@ -2121,11 +2109,11 @@ Author=RD
 ! spitfireshrug.png :spitfireshrug:
 ! spitfiresmeel.png :spitfiresmeel:
 ! spooky.gif :spooky:
-! spyn-gbrush.gif :spyn: :spyno:
 ! sscry.png :sscry:
 ! ssglee.png :ssglee:
 ! ssh.gif :ssh:
 ! ssj.gif :ssj:
+! ssohyou.png :ssohyou:
 ! sssanta.png :sssanta: :santashimmer:
 ! ssskeptical.png :ssskeptical:
 ! sssmile.png :sssmile:
@@ -2163,6 +2151,7 @@ Author=RD
 ! steroidpony.png :steroidpony: :roidrage: :snowflake:
 ! stevemagnet.png :stevemagnet:
 ! stoke.gif :stoke:
+! stonk.png :stonk:
 ! stonkhat.gif :stonkhat:
 ! stonklol.gif :stonklol:
 ! stonkspense.gif :stonkspense:
@@ -2209,6 +2198,7 @@ Author=RD
 ! sweetielod.png :sweetielod:
 ! sweetiemad.png :sweetiemad:
 ! sweetienom.png :sweetienom:
+! sweetieohyou.png :sweetieohyou:
 ! sweetieoops.png :sweetieoops:
 ! sweetiepleased.png :sweetiepleased:
 ! sweetieread.png :sweetieread: :sweetiebook:
@@ -2285,8 +2275,6 @@ Author=RD
 ! tfrxmas.gif :tfrxmas:
 ! tfw.png :tfw:
 ! thanging.png :thanging:
-! the_foreign_legion.png :stole:
-! the_suicide_kings.png :tsk:
 ! thejoke.png :thejoke:
 ! thelaw.png :thelaw:
 ! theworstpossiblething.png :theworstpossiblething: :raritycouch: :twpt:
@@ -2297,6 +2285,7 @@ Author=RD
 ! thonking.png :thonking:
 ! thumbsup.gif :thumbsup:
 ! tiaraskeptical.png :tiaraskeptical:
+! timeline.png :timeline:
 ! tindowns.gif :tindowns: :downsfoil:
 ! tinfoil.gif :tinfoil:
 ! tinfoin.png :tinfoin: :cripesfoil:
@@ -2304,6 +2293,7 @@ Author=RD
 ! tito.gif :tito:
 ! tizzy.gif :tizzy:
 ! tmyk.png :tmyk:
+! toffeeohyou.png :toffeeohyou:
 ! toomuchpony.png :toomuchpony:
 ! toot.gif :toot:
 ! tootzzz.png :tootzzz:
@@ -2349,7 +2339,6 @@ Author=RD
 ! trump.gif :trump:
 ! trumppop.gif :trumppop:
 ! tviv.gif :tviv:
-! tvp-shocked.gif :O :shocked:
 ! twentyfour.gif :twentyfour:
 ! twiaaaa.gif :twiaaaa:
 ! twiaaaaa.png :twiaaaaa:
@@ -2418,6 +2407,7 @@ Author=RD
 ! twioops.png :twioops:
 ! twipancake.png :twipancake:
 ! twipans.png :twipans:
+! twiparty.png :twiparty:
 ! twipbbt.gif :twipbbt:
 ! twiplead.png :twiplead:
 ! twipleased.png :twipleased:
@@ -2472,13 +2462,13 @@ Author=RD
 ! ughh.gif :ughh: :facepalm:
 ! uhaul.gif :uhaul:
 ! ultramon.gif :ultramon:
-! unchained_potential.png :ucp:
 ! unsmigghh.gif :unsmigghh:
 ! unsmith.gif :unsmith:
 ! upboat.gif :upboat:
 ! upvote.gif :upvote:
 ! upvotecannon.png :upvotecannon:
 ! upvotepony.png :upvotepony: :karma:
+! usapatriot.gif :USA: :usapatriot:
 ! ussr.gif :ussr:
 ! v.gif :v:
 ! vale7.png :vale7: :vale7:
@@ -2568,16 +2558,13 @@ Author=RD
 ! vinylsquee.png :vinylsquee:
 ! vinylstare.png :vinylstare:
 ! vuvu.gif :vuvu: :vuvuzela:
-! w-hat.gif :w-hat:
 ! w00t.gif :w00t:
 ! waifu.png :waifu:
-! wang-patriot.gif :wangpatriot:
 ! wank.gif :wank:
 ! wankah.gif :wankah:
 ! wat.png :wat:
 ! wave.gif :wave:
 ! weed.gif :420:
-! weed_.gif :weed_:
 ! welp.gif :welp:
 ! wendyponysmug.png :wendysmug:
 ! what.gif :what:
@@ -2615,6 +2602,7 @@ Author=RD
 ! woonaohyou.png :woonaohyou:
 ! woonarawr.png :woonarawr:
 ! woonasad.png :woonasad:
+! woonashake.png :woonashake:
 ! woonashiver.png :woonashiver: :woonabrr:
 ! woonashrug.png :woonashrug:
 ! woonashrughat.png :woonashrughat:
